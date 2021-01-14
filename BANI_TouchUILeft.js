@@ -6,10 +6,9 @@
  * @target MZ
  * @plugindesc マップとバトル画面のメニューを左上に表示します。
  * @author Baniyama
- * @url https://yahoo.co.jp
+ * @url https://baniyama.com/
  * @base BANI_TouchUILeft
- * @orderAfter BANI_TouchUILeft
- *
+ * *
  * @help BANI_TouchUILeft.js
  *
  * マップとバトル画面のメニューを左上に表示します。

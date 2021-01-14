@@ -1,18 +1,19 @@
 //=============================================================================
-// マップ右にキャラ表示
+// マップ右に先頭キャラ表示
 // BANI_MapPicture.js v1.0.0
 //=============================================================================
 /*:
  * @target MZ
- * @plugindesc マップ右にキャラを表示します。
+ * @plugindesc マップ右に先頭キャラを表示します。
  * @author Baniyama
- * @url https://yahoo.co.jp
+ * @url https://baniyama.com/
  * @base BANI_MapPicture
  * @orderAfter LL_MenuScreenBase
  *
- * @help BANI_TouchUILeft.js
+ * @help BANI_MapPicture.js
  *
- * マップ右にキャラを表示します。
+ * マップ右にパーティ先頭キャラを表示します。
+ * 「LL_MenuScreenBase」で設定した立ち絵リストを参照します。
  *
  * @param mapWindowPictureX
  * @text X座標始点
